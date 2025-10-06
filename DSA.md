@@ -1,5 +1,8 @@
 ## Interview tips
 * Properly understand the problem. Ask clarifying questions, and also ask about constraints if not provided. Just don't assume anything. Ask everything in the beginning before you jump into solving it.
+    * Ask if there are negative values?
+    * Ask if there are duplicate values?
+    * Ask if the size of the given array/string or whatever DS it is, will be zero?
 * Tell brute force first , then incrementally for optimal solution.
 * Maybe, first write your approach in comments at the top. This small tip could be super helpful.
 * They are checking your Communication also. Explanation should be crystal clear. Don't assume that interviewer is a friend. Explain him thoroughly. If you choose any algorithm then give him proper intuition that why you think that intuition will work, rather than simply telling him high level.
