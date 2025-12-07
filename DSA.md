@@ -9,6 +9,15 @@
 * Keep asking him is everything clear upto now, or was there any part I should explain in more depth?
 * Don't be silent for too long. Doesn't leave good impression. Try to break ice at specific intervals if silence is too long. May use fillers like "Questions would have been simpler if....", "Thought for this approach but this won't work because of this problem...", etc.
 * If stuck for too long, then be shameless and ask "Could you share any hint?"
+* Check if it will work for edge cases:
+    * Empty array/string
+    * Single element array/string
+    * All elements same
+    * negative values
+    * duplicate values
+    * Very large values
+    * will it work for last iteration? (Very important, as I always miss this)
+
 
 ## DSA tips
 * Use good varible names, even they are little long, they make things more intuitive.
